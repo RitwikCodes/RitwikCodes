@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="490" viewBox="0 0 1200 490" role="img" aria-label="Ritwik — Built with curiosity. Designed for people. Made to matter.">
+<defs><pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#dedbd1" stroke-width="1" opacity=".55"/></pattern></defs>
+<rect width="1200" height="490" rx="24" fill="#f7f5ef"/><rect width="1200" height="490" rx="24" fill="url(#grid)"/>
+<text x="62" y="66" fill="#14352b" font-family="monospace" font-size="16" letter-spacing="2">ASPIRING COMPUTER SCIENCE STUDENT</text>
+<circle cx="1083" cy="60" r="5" fill="#9fcf49"/><text x="1100" y="66" fill="#9fcf49" font-family="monospace" font-size="14" text-anchor="end">LEARNING BY BUILDING</text>
+<text x="62" y="166" fill="#171a17" font-family="Arial, Helvetica, sans-serif" font-size="59" font-weight="800" letter-spacing="-3">Built with curiosity.</text>
+<text x="62" y="250" fill="#171a17" font-family="Arial, Helvetica, sans-serif" font-size="59" font-weight="800" letter-spacing="-3">Designed for people.</text>
+<text x="62" y="334" fill="#ed6a50" font-family="Arial, Helvetica, sans-serif" font-size="59" font-weight="800" letter-spacing="-3">Made to matter.</text>
+<path d="M62 375H1138" stroke="#d8d5cc" stroke-width="1"/><text x="62" y="416" fill="#9fcf49" font-family="monospace" font-size="17">✦</text><text x="91" y="416" fill="#23352d" font-family="monospace" font-size="16">RITWIK / B.TECH COMPUTER SCIENCE</text>
+<text x="1138" y="416" fill="#23352d" font-family="monospace" font-size="16" text-anchor="end">NEW DELHI, INDIA ↗</text>
+
+
+<!-- Additional visual accents: orbit, coding motifs, and progress markers -->
+<g opacity=".9">
+  <circle cx="1040" cy="225" r="91" fill="none" stroke="#d9e5cc" stroke-width="2" stroke-dasharray="6 9"/>
+  <circle cx="1040" cy="225" r="65" fill="#e9f0de" stroke="#bfd49b" stroke-width="2"/>
+  <circle cx="1040" cy="225" r="43" fill="#14352b"/>
+  <text x="1040" y="237" font-family="monospace" font-size="34" font-weight="700" fill="#a7d757" text-anchor="middle">&lt;/&gt;</text>
+  <circle cx="973" cy="162" r="10" fill="#ed6a50"/>
+  <circle cx="1119" cy="261" r="8" fill="#9fcf49"/>
+  <path d="M927 220h-32m16-16v32 M1125 156l14-14m-14 0 14 14" stroke="#ed6a50" stroke-width="3" stroke-linecap="round"/>
+</g>
+<g font-family="monospace" font-size="12" letter-spacing="1" fill="#426a50">
+  <rect x="877" y="344" width="246" height="28" rx="14" fill="#e4ebd9" stroke="#cddbbd"/>
+  <circle cx="895" cy="358" r="4" fill="#8cbb42"/>
+  <text x="908" y="362">DESIGN · CODE · CREATE</text>
+</g>
+<g opacity=".7" stroke="#abc58b" fill="none" stroke-width="2">
+  <path d="M799 112l12-12 12 12-12 12z"/>
+  <path d="M845 290h24m-12-12v24"/>
+  <path d="M746 350l8-14 8 14z"/>
+</g>
+<g font-family="monospace" font-size="11" fill="#54745b" letter-spacing="1">
+  <text x="62" y="453">EXPLORE  /  EXPERIMENT  /  EVOLVE</text>
+</g>
+</svg>
